@@ -1,6 +1,6 @@
 # bigdata_ingestion
 
-# RUN Project
+## Build/Run 
 
 ``` bash
 mvn clean && mvn install

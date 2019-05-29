@@ -9,7 +9,7 @@ bash env.sh
 sudo hadoop/install.sh
 ```
 
-### init Hadoop RMBS
+### Initialize Hadoop RMBS
 
 ``` bash
 hadoop_init
