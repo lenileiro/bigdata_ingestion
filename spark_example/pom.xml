@@ -13,7 +13,7 @@
         <hadoop.version>3.2.0</hadoop.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <zookeeper.version>3.4.13</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <vertexium.version>4.5.0</vertexium.version>
     </properties>
 
